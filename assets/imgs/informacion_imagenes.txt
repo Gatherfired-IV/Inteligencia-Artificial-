@@ -1,0 +1,28 @@
+Nombre de la imagen | Dimensiones (ancho x alto) | Formato
+--------------------------------------------------
+about-1.jpg | 600x600 | JPEG
+about-2.jpg | 600x600 | JPEG
+about.jpg | 650x400 | JPEG
+advertising-1.jpg | 750x422 | JPEG
+advertising-2.jpg | 750x530 | JPEG
+advertising-3.jpg | 750x530 | JPEG
+advertising-4.jpg | 750x562 | JPEG
+avatar-1.jpg | 250x250 | JPEG
+avatar-2.jpg | 400x400 | JPEG
+avatar.jpg | 600x600 | JPEG
+blog-1.jpg | 750x530 | JPEG
+blog-2.jpg | 749x530 | JPEG
+blog-3.jpg | 750x530 | JPEG
+branding-1.jpg | 693x483 | JPEG
+branding-2.jpg | 750x377 | JPEG
+branding-3.jpg | 750x500 | JPEG
+branding-4.jpg | 750x750 | JPEG
+branding-5.jpg | 750x500 | JPEG
+header.jpg | 1920x1080 | JPEG
+logo.svg | Error al procesar: cannot identify image file 'C:\\Users\\DENNIS\\Documents\\Python\\leadmark\\public_html\\assets\\imgs\\logo.svg'
+medidas.txt | Error al procesar: cannot identify image file 'C:\\Users\\DENNIS\\Documents\\Python\\leadmark\\public_html\\assets\\imgs\\medidas.txt'
+section.jpg | 1920x1080 | JPEG
+web-1.jpg | 750x1126 | JPEG
+web-2.jpg | 750x592 | JPEG
+web-3.jpg | 744x523 | JPEG
+web-4.jpg | 750x659 | JPEG
